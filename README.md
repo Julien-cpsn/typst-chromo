@@ -10,7 +10,7 @@ I personally place one of these test on all my exam papers to ensure the printer
 To import any of the functions needed, you may want to use the following line:
 
 ```typst
-#import "@preview/printer-tester:0.1.0": square-printer-test, gradient-printer-test, circular-printer-test, crosshair-printer-test
+#import "@preview/chromo:0.1.0": square-printer-test, gradient-printer-test, circular-printer-test, crosshair-printer-test
 ```
 
 ### Square test
