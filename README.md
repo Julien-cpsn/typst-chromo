@@ -1,4 +1,4 @@
-# [Printer tester](https://github.com/julien-cpsn/typst-printer-tester)
+# [Chromo](https://github.com/julien-cpsn/typst-chromo)
 
 Generate printer tests directly in Typst.
 For now, only generates with CMYK colors (as it is by far the most used).
